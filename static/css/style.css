@@ -49,3 +49,7 @@
 .add-button:hover {
 box-shadow: 0 0px 9px 0px rgb(0 0 0 / 20%), 0 3px 10px 0 rgb(0 0 0 / 58%), 0 1px 18px 0 rgb(0 0 0 / 12%);
 }
+
+.btn-primary {
+    color: #fff;
+}
